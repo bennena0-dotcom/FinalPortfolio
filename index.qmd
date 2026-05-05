@@ -11,3 +11,73 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+title: "The Unknown Effects of Energy Usage and Co2 Emissions"
+author: "Nicky Bennett"
+description: ""
+date: "2026-05-03"
+categories: []
+---
+
+Energy usage and Co2 emissions have led to problematic outcomes for individuals health and well-being which is one of the key SDG goals. Co2 emissions have increased drastically now which has led to bad climate change and an overall worse environment for planet Earth.  Often these high Co2 emissions affect the poorest countries the most, even though they did not cause most of the emissions. Wealthy countries use much more energy per person than poorer countries and therefore are responsible for most of the CO2 emissions problems. Although high usage of energy and Co2 emissions can mean that there is development and production of resources going on, there can be more environmental friendly tradeoffs to reduce Co2 emissions and help all countries across the world. Overall, this project examines key differences in Co2 emissions between developed and developing countries across the world.
+
+Image: 
+
+Like to Data Story on Github: 
+
+"https://github.com/bennena0-dotcom/DATASTORY1.git"
+
+“thumbnail.jpg” 
+
+title: "Land usage effects for different country"
+author: "Nicky Bennett"
+description: "A data story comparing how land use patterns affect countries with different economies, populations, and development paths" 
+date: "2026-05-04"
+categories: []
+---
+
+Land is used differently in all regions of the universe; however some regions may use land in more harmful or better/efficient ways. Agricultural practices have been around for centuries and many parts of countries land is used for this purpose. In the 18th century when the industrial revolution took place, their was a change in land usage from agriculture to other industries. Many developed nations today don't have many agriculture industries and use their land for industries other than crops. On the other hand, developing nations/countries prioritize agriculture and much of their land is used for this purpose. Geographical location also plays a critical role in land usage and some regions of the world are better for agriculture than others. Countries with more agricultue and complex Industries, are typically richer and therefore pollute more toxins in the environment. One of the key SDG goals is health and well being and this data story will explain how land usage can potentially effect the health and well being of individuals while also highlighting how demographic, geographical, and economic differences effect land usage.
+
+Github link: "https://github.com/bennena0-dotcom/Data-Story-2.git"
+
+title: "How Good health And Well Being, Zero Hunger, and Clean Water Are All Related"
+author: "Nicky Bennett"
+description: "Bookdown on SDG Goals 2,3,17"
+date: "2026-05-04"
+categories:
+
+Access to safe water, sanitation, and hygiene are some of the most basic human needs for an individual's health. The demand for water is currently rising due to rapid population growth, urbanization, and increasing water needs from agriculture, industry, and energy sectors.
+
+Hunger issues have been on the rise especially in developing countries where population rates are continuing to rise at an alarming rate. Hunger problems are not just present in developing countries but also present in some developed countries that encounter extreme income inequality or lack of funding in specific rural areas in need of food. Technology developments and  more funding to food programs are some essential ways to help fight against these hunger predicaments and also deal with issues like food losses and waste. Sustainable agricultural practices and food systems must first be improved in order to counteract hunger issues. There are many tradeoffs in addressing these agricultural and hunger issues but using more expensive energy and potentially harmful resources in this progress could be a tradeoff individuals are willing to make.
+
+The third sustainable development goal is to ensure healthy lives and promote well being for individuals of all ages. This goal helps aim to: reduce global maternal mortality rate, end preventable death to newborns, end and help fight against epidemics such as AIDS, tuberculosis, malaria and other communicable diseases, reduce non-communicable diseases, help with prevention of substance abuse, half the number of deaths and injuries from road accidents, ensure universal access to sexual and reproductive health-care services, achieve universal healthcare, and lastly, help reduce the number of deaths from harmful chemicals and pollution.
+
+Github link to DataStory: "https://github.com/bennena0-dotcom/data_story_3.git"
+
+title: "Local Sewanee Rainfall Data"
+author: "Nicky Bennett"
+description: "Data Analysis on Weekly Rainfall Amounts Sewanee"
+date: "2026-05-04"
+categories: []
+---
+The process of designing a extremely cool shiny data entry app that allowed me to collect local data at Sewanee for rainfall amounts per week. While collecting this data, rainfall amounts vary heavily based on the season and in the months of March and April, their has been little to no rain. Collecting Weather/Rainfall in a geographical location such as can provide insights on what are the key differences in amounts of rainfall between higher up locations and lower locations. Climate change has been very observable as of recent years and could also explain some of the reasons why little rain has been present for this region. 
+
+https://github.com/bennena0-dotcom/Data-Story-4.git
+
+title: "Local Bird Species Data"
+author: "Nicky Bennett"
+description: "How many birds are spotted at Stirrlings and What is the most popular time of the day"
+date: "2026-05-04"
+categories: []
+---
+
+This project will be a shiny designed data entry app that allows me to collect local data on birds. When collecting the data, I noticed birds are more out in the mornings because of less people outside and species such as cardinals are very popular in this region. Overall, this data story explores which birds are seen by students and teachers the most at Sewanee.
+
+
+
+
+
+
+
+
+
